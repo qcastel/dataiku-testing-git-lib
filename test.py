@@ -1,5 +1,2 @@
-
-print('test local');
-
-
+print('test after conflict');
 
