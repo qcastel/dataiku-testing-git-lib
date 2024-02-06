@@ -1,2 +1,2 @@
-print('test after conflict');
+print('test');
 
