@@ -1,1 +1,1 @@
-print('test changes locally');
+print('test conflict resolved');
