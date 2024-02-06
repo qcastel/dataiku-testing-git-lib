@@ -1,6 +1,1 @@
-
-print('test with resolved conflict');
-
-
-
-
+print('test');
