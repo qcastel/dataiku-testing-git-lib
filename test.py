@@ -1,1 +1,1 @@
-print('test conflict resolved');
+print('test');
