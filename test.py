@@ -1,2 +1,6 @@
-print('test change on local');
+
+print('test with resolved conflict');
+
+
+
 
